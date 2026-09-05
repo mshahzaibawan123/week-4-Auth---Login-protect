@@ -304,3 +304,11 @@ Implemented Supabase authentication with:
 - User login using email and password
 - Access token generation
 - Refresh token generation
+
+## Stage 2 - Public and Protected Routes
+
+Implemented:
+
+- Public information endpoint
+- Protected profile endpoint
+- Authentication requirement for protected resources
