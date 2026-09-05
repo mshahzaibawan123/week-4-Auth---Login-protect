@@ -295,3 +295,12 @@ https://github.com/mshahzaibawan123
 ## 📄 License
 
 This project was created for educational and internship assignment purposes.
+
+## Stage 1 - Authentication
+
+Implemented Supabase authentication with:
+
+- User signup using email and password
+- User login using email and password
+- Access token generation
+- Refresh token generation
