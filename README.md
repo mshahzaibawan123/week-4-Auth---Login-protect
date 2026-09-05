@@ -324,3 +324,6 @@ Added reusable authentication dependency for protected routes and implemented lo
 
 Configured HTTP Bearer authentication so protected endpoints can be tested using Swagger UI.
 
+## Stage 6 - Final Project Configuration
+
+Finalized the project documentation, requirements, and Git configuration for submission.
