@@ -320,3 +320,7 @@ Protected routes verify the Supabase access token before allowing access to prot
 ## Stage 4 - Authentication Dependency and Logout
 
 Added reusable authentication dependency for protected routes and implemented logout functionality.
+## Stage 5 - Swagger Authentication
+
+Configured HTTP Bearer authentication so protected endpoints can be tested using Swagger UI.
+
