@@ -317,3 +317,6 @@ Implemented:
 
 Protected routes verify the Supabase access token before allowing access to protected resources.
 
+## Stage 4 - Authentication Dependency and Logout
+
+Added reusable authentication dependency for protected routes and implemented logout functionality.
