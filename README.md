@@ -312,3 +312,14 @@ Implemented:
 - Public information endpoint
 - Protected profile endpoint
 - Authentication requirement for protected resources
+
+## Stage 3 - JWT Verification
+
+Protected routes verify the Supabase access token before allowing access to protected resources.
+
+## Stage 4 - Authentication Dependency
+
+Implemented a reusable authentication dependency for protected routes and added logout functionality.
+## Stage 5 - Swagger Authentication
+
+Configured HTTP Bearer authentication so protected endpoints can be tested through the Swagger UI.
