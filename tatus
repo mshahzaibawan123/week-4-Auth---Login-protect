@@ -1,0 +1,8 @@
+[33mf5a3b72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Stage 6: finalize documentation and project configuration
+[33ma6f43eb[m Stage 5: configure Swagger authentication
+[33m12d65e2[m Stage 4: add reusable authentication and logout
+[33m39c52b9[m Stage 3: add JWT token verification
+[33m3c39c68[m Stage 6: finalize documentation and project configuration
+[33ma36a565[m Stage 2: add public and protected routes
+[33m58bc71e[m Stage 1: add signup and login authentication
+[33me8d6ba0[m Stage 0: setup server and supabase client
